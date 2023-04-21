@@ -1,0 +1,1 @@
+INSERT INTO Users(username, password) values('admin', 'YWRtaW4=') -- 'admin' is 'YWRtaW4=' in Base64
